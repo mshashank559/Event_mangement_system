@@ -26,8 +26,6 @@ Hardware Requirements:
 2.Client Devices:
   Desktop and mobile device support.
   Internet connectivity.
-
-
 3.Security Measures:
   SSL support for data encryption.
   Firewall and intrusion detection systems.
